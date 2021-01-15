@@ -9,18 +9,18 @@
 
 
 # V1 全部保留
-| Title                                    |  Venue  | Type | Task | Labels | Code | Year | bib |
-| :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: | :--: | :--: |
-| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |   G    | CV<br>LM<br>MT | Hardware  Efficient  ConvNet |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | bib |
+| Title                                    |  Venue  | Task | Labels | Code | Year | bib |
+| :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: | :--: |
+| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   | CV<br>LM<br>MT | Hardware  Efficient  ConvNet |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | bib |
 
 
 # V2 将Labels和bib合并成超链接detail
 ## 毕竟bib肯定是一个超链接
-| Title                                    |  Venue  | Type | Task | Code | Year | Info |
-| :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: | :--: |
-| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |   G    | CV  LM  MT |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail](./info/Wu2019FBNet.md) |
+| Title                                    |  Venue  | Task | Code | Year | Info |
+| :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: |
+| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   | CV  LM  MT |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail](./info/Wu2019FBNet.md) |
 
 # V3 将Task、Labels、bib合并
-| Title                                    |  Venue  | Type | Code | Year | Info |
-| :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: |
-| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |   G    |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail]() |
+| Title                                    |  Venue  | Code | Year | Info |
+| :-------------------------------------- | :-----: | :--: | :--: | :----: |
+| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail]() |
