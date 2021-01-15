@@ -18,7 +18,7 @@
 ## 毕竟bib肯定是一个超链接
 | Title                                    |  Venue  | Type | Task | Code | Year | Info |
 | :-------------------------------------- | :-----: | :--: | :--: | :----: | :--: | :--: |
-| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |   G    | CV  LM  MT |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail]() |
+| [**FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search**](https://ieeexplore.ieee.org/document/8953587/) |  CVPR   |   G    | CV  LM  MT |  [github](https://github.com/facebookresearch/mobile-vision) | 2019 | [detail](./info/Wu2019FBNet.md) |
 
 # V3 将Task、Labels、bib合并
 | Title                                    |  Venue  | Type | Code | Year | Info |
